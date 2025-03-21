@@ -12,3 +12,8 @@ git diff просмотр различий между коммитами
 git reset откат к предыдущему коммиту
 git reset --hard удаление изменений(откат)
 >
+
+   private void Button_Click(object sender, RoutedEventArgs e)
+   {
+
+   }
